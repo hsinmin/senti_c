@@ -8,7 +8,7 @@ senti_c provides two functions:
 2. Aspect extraction and aspect-based sentiment analysis. 
 
 If you use senti_c, please cite our work:<br>
-** Yu-Ting Tu, 2020, Developing Sentiment Analysis Toolkit for Traditional Chinese Using Sequential Transfer Learning, (Master Thesis), Retrieved from [https://hdl.handle.net/11296/er7s7w](https://hdl.handle.net/11296/er7s7w).**
+**Yu-Ting Tu, 2020, Developing Sentiment Analysis Toolkit for Traditional Chinese Using Sequential Transfer Learning, (Master Thesis), Retrieved from [https://hdl.handle.net/11296/er7s7w](https://hdl.handle.net/11296/er7s7w).**
 
 There is a [vignettee written in Chinese](https://github.com/hsinmin/senti_c/blob/master/vignettee_senti_c.ipynb).  
 ---
