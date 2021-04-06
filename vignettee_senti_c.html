@@ -13086,6 +13086,7 @@ div#notebook {
 <p>為了能對繁體中文文本提供良好的性能，我們採用順序遷移學習技術、且以BERT作為模型架構，藉由設計預訓練策略和微調(Pre-training and fine-tuning)架構建構模型。
 在順序遷移學習中的預訓練階段，我們採用繼續預訓練，並使用連續多任務學習模式，於每階段加入不同任務、利用所蒐集的資料集實際訓練，預訓練任務包含三個啟發自其他學者的任務：Masked Language Model (MLM)、Sentence Order Prediction (SOP)、與Aspect Category Sentiment Analysis (ACSA)，這些任務能幫助模型更好的學習文本中的知識。</p>
 <p>另一方面，對於順序遷移學習中的微調階段，我們建構了五千句餐廳領域與一千句飯店領域的訓練資料，每句包含整句的正負面，以及屬性層級的標註。我們的最終模型模型比起現有的模型性能更加優良，尤其相對使用簡體情感分析工具更有明顯的優勢。相信對有繁體中文情感分析需求的使用者有一定的效用與價值。</p>
+<p>以下的說明假設你是在自己的機器上執行。另有<a href="https://colab.research.google.com/drive/1OTs4xIueHt53vCd-SN52QOOJE0mcgizv?usp=sharing">Google Colab</a>版本供大眾參考。</p>
 <p>下面提供本工具的簡要說明。如果你使用本工具，請引用以下參考文獻:<br>
 <strong>凃育婷(2020)。基於順序遷移學習開發繁體中文情感分析工具。國立臺灣大學資訊管理學研究所碩士論文，台北市。</strong></p>
 
