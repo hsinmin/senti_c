@@ -10,7 +10,8 @@ senti_c provides two functions:
 If you use senti_c, please cite our work:<br>
 **Yu-Ting Tu, 2020, Developing Sentiment Analysis Toolkit for Traditional Chinese Using Sequential Transfer Learning, (Master Thesis), Retrieved from [https://hdl.handle.net/11296/er7s7w](https://hdl.handle.net/11296/er7s7w).**
 
-There is a [vignettee written in Chinese](https://github.com/hsinmin/senti_c/blob/master/vignettee_senti_c.ipynb).  
+There is a [vignettee written in Chinese](https://nbviewer.jupyter.org/github/hsinmin/senti_c/blob/master/vignettee_senti_c.ipynb).
+You may also want to look at the [Google Colab demo online](https://colab.research.google.com/drive/1OTs4xIueHt53vCd-SN52QOOJE0mcgizv?usp=sharing).
 ---
 
 ## Requirements
